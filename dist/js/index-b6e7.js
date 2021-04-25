@@ -1,0 +1,1 @@
+(()=>{"use strict";const n=function(){return{name:"scroll",tpl:'<div class="scroll"> <p>scroll</p> </div>'}};new function(){var e=document.getElementById("app"),t=new n;e.innerHTML=t.tpl,document.write(t.name)}})();
